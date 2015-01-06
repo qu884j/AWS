@@ -7,8 +7,6 @@ Amazon Web Services Scripts/Notes
 
 ##### ami_snap.sh: 
 
-Bash Script to Automate EC2 Backup
-
-This script will create an AMI backup of each runing EC2 instance without reboot.
+This script will create an AMI backup of all the running instances without reboot.
 
 ----------------------
