@@ -5,7 +5,7 @@ Amazon Web Services Scripts/Notes
 
 ----------------------
 
-##### ami_backup.sh: 
+##### ami_snap.sh: 
 
 Bash Script to Automate EC2 Backup
 
