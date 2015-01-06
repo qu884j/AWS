@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Name:         ami_backup.sh
+# Name:         ami_snap.sh
 # DESCRIPTION:  Backup EC2 running instances as AMI/Image
 # REQUIREMENTS: AWS Tools, AWS credentials
 # CREATED:      29/12/2014 10:50:25 AM
