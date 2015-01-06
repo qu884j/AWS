@@ -1,4 +1,4 @@
-aws
+AWS
 ===
 
-Amazon Web Services Scripts
+Amazon Web Services Scripts/Notes
