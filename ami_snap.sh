@@ -1,9 +1,8 @@
 #!/bin/bash
 #
-# DESCRIPTION:  Backup EC2 running instances as AMI/Image
-# REQUIREMENTS: AWS Tools, AWS credentials
-# CREATED:      29/12/2014 10:50:25 AM
-# AUTHOR:       Ahmad Qubbaj qubbaj@hotmail.com
+# Backup EC2 running instances as AMI/Image
+# AWS Tools, AWS credentials
+# qubbaj@hotmail.com
 #
 #
 
@@ -12,6 +11,9 @@
 export AWS_ACCESS_KEY=''
 export AWS_SECRET_KEY=''
 
+export EC2_HOME=/usr/local/ec2/ec2-api-tools-1.7.2.4/
+export JAVA_HOME="/usr/lib/jvm/java-6-openjdk-i386/jre/"
+export PATH=$PATH:$EC2_HOME/bin
 
 # Logs
 > /tmp/ami.tmp
