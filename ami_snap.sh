@@ -1,6 +1,5 @@
 #!/bin/bash
 #
-# Name:         ami_snap.sh
 # DESCRIPTION:  Backup EC2 running instances as AMI/Image
 # REQUIREMENTS: AWS Tools, AWS credentials
 # CREATED:      29/12/2014 10:50:25 AM
@@ -14,7 +13,7 @@ export AWS_ACCESS_KEY=''
 export AWS_SECRET_KEY=''
 
 
-# rm Logs
+# Logs
 > /tmp/ami.tmp
 > /tmp/snap.tmp
 > /var/log/ami_snap.log
