@@ -1,7 +1,5 @@
-AWS
+AWS Stuff [ Scripts, Notes ]
 ===
-AWS Scripts && Notes
-----------------------
 
 ##### ami_snap.sh:
 
